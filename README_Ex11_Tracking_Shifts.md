@@ -327,13 +327,11 @@ Le diagramme permet de représenter :
 Le diagramme est réalisé avec **Mermaid**, qui permet de créer
 facilement des diagrammes à partir de code.
 
-Le diagramme peut être créé avec **Mermaid Live Editor** :
 
-https://mermaid.live/
 
 Le fichier correspondant au diagramme est :
 
-`diagram_class.md`
+`diagramme de classe exo 11.md`
 
 ------------------------------------------------------------------------
 
