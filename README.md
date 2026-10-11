@@ -19,12 +19,6 @@ Deux questions ouvertes :
 1. *How has your practice evolved?* (Comment votre pratique a-t-elle évolué ?)
 2. *What aspects of your practice have remained consistent?* (Quels aspects sont restés constants ?)
 
-### Formulaire papier
-
-| Consignes (p. 81) | Question 1 (p. 82) | Question 2 (p. 83) |
-|---|---|---|
-| ![consignes](img/ex11_consignes.png) | ![q1](img/ex11_formulaire_q1.png) | ![q2](img/ex11_formulaire_q2.png) |
-
 ## 2. Transformation en outil numérique
 
 Le formulaire papier est une page blanche : l'outil numérique doit apporter de la **structure**
@@ -67,13 +61,5 @@ et de la **traçabilité** (exemples documentés, liens vers les conversations L
 ```
 ArtificialInquiries_11/
 ├── README.md
-├── diagram_class.md
-└── img/
-    ├── ex11_consignes.png
-    ├── ex11_formulaire_q1.png
-    └── ex11_formulaire_q2.png
+└── diagram_class.md
 ```
-
-## 4. Collaboration
-
-Collaborateur à ajouter : **samszo** (Settings → Collaborators).
